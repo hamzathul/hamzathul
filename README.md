@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 🔭 I’m currently working on **Cakeroo**
+- 🔭 I’m currently working on **Cakeroo Project**
 
 - 📫 How to reach me **ehamzathulfavas@gmail.com**
 
