@@ -26,7 +26,8 @@
 
 [![An image of @hamzathul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hamzathul)](https://holopin.io/@hamzathul)
 
-## GSSOC(24) Badges 🪶
+<!--## GSSOC(24) Badges 🪶 -->
+##
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/refs/heads/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/hamzathul/Postman-Challenge/refs/heads/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
