@@ -26,13 +26,28 @@
 
 [![An image of @hamzathul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hamzathul)](https://holopin.io/@hamzathul)
 
+<br>
+
 <!--## GSSOC(24) Badges 🪶 -->
+
 ##
+
+<br>
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/refs/heads/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/hamzathul/Postman-Challenge/refs/heads/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/refs/heads/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/refs/heads/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/refs/heads/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/refs/heads/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/refs/heads/main/docs/assets/5.png" width="100px" height="100px" />
+
+  
+  
  
 </div>
+
+<br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hamzathul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hamzathul" /></a></p><br><br>
