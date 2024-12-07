@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 🔭 I’m currently working on **VibeConnect Project**
+- 🔭 I’m currently working on **Shopping cart with Redis Project**
 
 - 📫 How to reach me **ehamzathulfavas@gmail.com**
 
